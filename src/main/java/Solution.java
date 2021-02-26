@@ -7,7 +7,9 @@ public class Solution {
         solution.monotoneIncreasingDigits(332);
     }
 
-
+    public int monotoneIncreasingDigits2(int N) {
+        return 0;
+    }
 
         public int monotoneIncreasingDigits(int N) {
             char[] aim = Integer.toString(N).toCharArray();
